@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BaliApp</string>
+    <string-array name="products">
+        <item>Iphone14</item>
+        <item>Samsung Note 10</item>
+        <item>Bunnys Bread</item>
+        <item>Sunslik Shampoo</item>
+        <item>G15 Dell Laptop</item>
+        <item>Google Pixel</item>
+        <item>louis vuitton Bag</item>
+        <item>Mouse</item>
+        <item>C type Charger</item>
+    </string-array>
+    <string-array name="Desciption">
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+        <item>This Is Discription</item>
+    </string-array>
+    <string-array name="Prices">
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+    </string-array>
+</resources>
